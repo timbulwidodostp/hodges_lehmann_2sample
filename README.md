@@ -1,6 +1,8 @@
 # hodges_lehmann_2sample
 Two-sample Hodges-Lehmann estimator Use hodges_lehmann_2sample (robnptests) With (In) R Software
 
+https://www.youtube.com/watch?v=QjWsB1F2dJY
+
 Olah Data Semarang
 
 WA : +6285227746673 (085227746673)
